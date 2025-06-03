@@ -84,4 +84,4 @@ Abra o arquivo `public/index.html` no seu navegador (basta dar duplo clique ou u
 - **LinkedIn:** [Cauã Moreira](https://www.linkedin.com/in/cauã-moreira-57a2aa353)
 
 ## 📄 Licença
-Projeto acadêmico, livre para fins educacionais. 
+Projeto acadêmico, livre para fins educacionais..
